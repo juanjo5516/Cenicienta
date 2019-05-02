@@ -1,2 +1,3 @@
 Prueba 1
 Cuento con una línea.
+Esto es otra prueba.
